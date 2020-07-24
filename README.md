@@ -56,11 +56,13 @@ all_pairs = easy_pairs + random_pairs + safety_pairs
 * **Easy Numbers** : 		EasyNumber + _____________ , range(1-5), is the place holder for EasyNumber
 These Numbers contribute on what pairs do you need the worksheets [All in Order]
 so in the setting above, 
+```
 (1+1), (1+2) ... (1+10)
 (2+1), (2+2) ... (2+10)
 ....
 ....
 (5+1), (5+2) ... (5+10)
+```
 * **Easy Pairs** : The pairs above are the easy pairs, which are by default in order.
 
 * **Tougher Numbers** : 	Difficult Numbers range, these are randomized and filled into workseets.
